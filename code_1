@@ -5,9 +5,3 @@ using System;class Program
  static void Greet() {
   Console.WriteLine("Hello from feature3!"); }
 }
-
-	static void Greet()
-	{
-		Console.WriteLine("Hello from feature2!");
-	}
-}
